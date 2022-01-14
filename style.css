@@ -1,0 +1,88 @@
+body{
+  text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+  margin: 0;
+  background-image: url(img/1616609388_36-p-fon-gradient-svetlii-39.jpg);
+}
+
+
+
+img {
+  width: 350px;
+}
+.f {
+  color: blue;
+  font-size: 20px;
+  margin: 2px;
+  background-color: rgb(233, 210, 166);
+}
+.smth {
+  position: absolute;
+  display: none;
+  background-color: turquoise;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 160з 1;
+}
+.la {
+  position: relative;
+  display: inline-block;
+}
+.smth a {
+  color: black;
+  padding: 12px 16px;
+  display: block;
+  text-decoration: none;
+}
+.smth a:hover {
+  background-color: #ddd;
+}
+.la:hover .smth {
+  display: block;
+}
+.la:hover .f {
+  background-color: #3e8e41;
+}
+.small {
+  text-align: left;
+  font-size: 12px;
+}
+.hh {
+  color: yellow;
+}
+.kk {
+  width: 200px;
+}
+.ff {
+  display: inline;
+  width: 200px;
+  height: 200px;
+  border: 3px solid red;
+  padding: 20px;
+  margin: 20px;
+  background: rosybrown;
+}
+.gg {
+  display: block;
+}
+
+.hh {
+  color: blueviolet;
+}
+.top{
+  margin-top: none;
+  margin-left: 300px;
+display: inline;
+font-size: left;
+color: red;
+font-size: 25px;
+border: 2px solid black;
+}
+
+.l{
+  background-image: url(./img/images.jpg);
+  padding-bottom: 200px;
+}
+
+
